@@ -7,6 +7,10 @@
         "potter/buffer-interface": "dev-main",
         "potter/output-buffer-interface": "dev-main"
     },
+    "suggest": {
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
